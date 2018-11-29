@@ -1,0 +1,17 @@
+{
+    "requisicao":"%{url_effective}",\n
+    {\n
+        "data_requisição": "##(date)##",\n
+        "ip_local": "%{local_ip}",\n
+        "alvo": "%{url_effective}",\n
+        "tamanho_download": "%{size_download} bytes",\n
+        "velocidade_download": "%{speed_download} Bps",\n
+        "time_namelookup":  "%{time_namelookup}",\n
+        "time_connect":  "%{time_connect}",\n
+        "time_appconnect": "%{time_appconnect}",\n
+        "time_pretransfer": "%{time_pretransfer}",\n
+        "time_redirect": "%{time_redirect}",\n
+        "time_starttransfer": "%{time_starttransfer}",\n
+        "time_total": "%{time_total}",\n
+    }\n
+},\n
